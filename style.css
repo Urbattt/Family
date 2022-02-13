@@ -1,0 +1,17 @@
+body {
+    background-color: red;
+    color:whitesmoke;
+}
+
+.heading {
+    width: 80%;
+    font-size: 25px;
+
+}
+
+#camera{
+    border:5px double salmon;
+    width: 300px;
+    height: 300px;
+
+}
